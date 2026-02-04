@@ -262,11 +262,11 @@ $$
 
 $$
 \mathcal{H} =
-\left\{
+\left \{
 S \;\middle|\;
 n_{\text{links}} = 1,\;
 \Delta E = E_{\text{quant}}
-\right\}
+\right \}
 $$
 
 Свойства горизонта:
