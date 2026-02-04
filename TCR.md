@@ -261,12 +261,7 @@ $$
 Горизонт событий определяется как множество узлов:
 
 $$
-\mathcal{H} =
-\left \{
-S \;\middle|\;
-n_{\text{links}} = 1,\;
-\Delta E = E_{\text{quant}}
-\right \}
+\mathcal{H} = \left\{ S \;\middle|\; n_{\text{links}} = 1, \; \Delta E = E_{\text{quant}} \right\}
 $$
 
 Свойства горизонта:
